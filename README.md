@@ -10,7 +10,7 @@
 5. As I will group number of posts per month, a counter will help.
 6. Finally, a bar plot will show how was my activity during the years since I created this page.
 
-![Monthly post bar chart](month_chart.png)
+![Monthly post bar chart](monthly_chart.png)
 
 
 Now it comes a more interesting analysis. Facebook will supply a full but tricky json file, where we will have to convert and play with the data types and avoid nulls and nans to find the solution.
