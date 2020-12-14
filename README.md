@@ -15,4 +15,6 @@
 
 Now it comes a more interesting analysis. Facebook will supply a full but tricky json file, where we will have to convert and play with the data types and avoid nulls and nans to find the solution.
 I wanted to go through al the nested dictionaries and find which posts were suuuuper long and which ones short.
+
+
 ![Character counter post pie chart](character_caterogization_chart.png)
